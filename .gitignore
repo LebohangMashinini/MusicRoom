@@ -1,0 +1,12 @@
+# Global
+node_modules
+.env
+.DS_Store
+
+# Frontend
+/frontend/build
+
+# Backend
+/backend/env/
+__pycache__/
+*.pyc
